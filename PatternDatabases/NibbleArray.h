@@ -5,7 +5,15 @@
 #ifndef RUBIKS_CUBE_SOLVER_NIBBLEARRAY_H
 #define RUBIKS_CUBE_SOLVER_NIBBLEARRAY_H
 
-#include <bits/stdc++.h>
+// #include <bits/stdc++.h>
+#include <iostream>
+#include <string>
+#include <vector>
+#include <array>
+#include <queue>
+#include <unordered_map>
+#include <algorithm>
+#include <cassert>
 
 using namespace std;
 

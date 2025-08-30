@@ -4,7 +4,19 @@
 
 #ifndef RUBIKS_CUBE_SOLVER_PERMUTATIONINDEXER_H
 #define RUBIKS_CUBE_SOLVER_PERMUTATIONINDEXER_H
-#include "bits/stdc++.h"
+// #include "bits/stdc++.h"
+#include <iostream>
+#include <string>
+#include <vector>
+#include <array>
+#include <queue>
+#include <unordered_map>
+#include <algorithm>
+#include <bitset>
+#include <set>
+#include <unordered_set>
+
+
 #include "math.h"
 using namespace std;
 

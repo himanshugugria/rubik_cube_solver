@@ -5,7 +5,15 @@
 #ifndef RUBIKS_CUBE_SOLVER_RUBIKSCUBE_H
 #define RUBIKS_CUBE_SOLVER_RUBIKSCUBE_H
 
-#include "bits/stdc++.h"
+// #include "bits/stdc++.h"
+#include <iostream>
+#include <string>
+#include <vector>
+#include <array>
+#include <queue>
+#include <unordered_map>
+#include <algorithm>
+
 
 using namespace std;
 

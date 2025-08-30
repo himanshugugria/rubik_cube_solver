@@ -7,7 +7,15 @@
 
 #include "../Model/RubiksCube.h"
 #include "NibbleArray.h"
-#include "bits/stdc++.h"
+// #include "bits/stdc++.h"
+#include <iostream>
+#include <string>
+#include <vector>
+#include <array>
+#include <queue>
+#include <unordered_map>
+#include <algorithm>
+#include <fstream>
 
 using namespace std;
 
